@@ -1,0 +1,15 @@
+
+.history-container {
+    display: flex;
+    flex-direction: row; 
+}
+
+.card-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+    text-align: right;
+    width: 50%;
+    height: 250px;
+}
